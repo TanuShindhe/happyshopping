@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/happyshopping/static/css/main.9d1b0a51.css",
+    "main.js": "/happyshopping/static/js/main.8fc3e733.js",
+    "index.html": "/happyshopping/index.html",
+    "main.9d1b0a51.css.map": "/happyshopping/static/css/main.9d1b0a51.css.map",
+    "main.8fc3e733.js.map": "/happyshopping/static/js/main.8fc3e733.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d1b0a51.css",
+    "static/js/main.8fc3e733.js"
+  ]
+}
