@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/happyshopping/static/css/main.9d1b0a51.css",
-    "main.js": "/happyshopping/static/js/main.7a5f6b84.js",
+    "main.js": "/happyshopping/static/js/main.aee62828.js",
     "index.html": "/happyshopping/index.html",
     "main.9d1b0a51.css.map": "/happyshopping/static/css/main.9d1b0a51.css.map",
-    "main.7a5f6b84.js.map": "/happyshopping/static/js/main.7a5f6b84.js.map"
+    "main.aee62828.js.map": "/happyshopping/static/js/main.aee62828.js.map"
   },
   "entrypoints": [
     "static/css/main.9d1b0a51.css",
-    "static/js/main.7a5f6b84.js"
+    "static/js/main.aee62828.js"
   ]
 }
